@@ -1,0 +1,20 @@
+repo_path: "demo_repo"
+allowlist_dirs:
+  - "src"
+  - "app"
+  - "demo_repo"
+blacklist_dirs:
+  - "tests"
+  - "configs"
+  - ".git"
+  - ".ghost_worktrees"
+max_attempts: 3
+branch_prefix: "ghost/refactor-"
+github:
+  enabled: false
+  repo_owner: "owner"
+  repo_name: "repo"
+  draft: true
+use_docker: false
+docker_image: "python:3.11-slim"
+
