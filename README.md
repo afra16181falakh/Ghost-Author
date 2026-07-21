@@ -5,7 +5,7 @@ Ghost Author is an AI-powered autonomous code quality agent. It detects code sme
 - **Backend:** FastAPI + PostgreSQL (async) + Celery/Redis for agent runs
 - **Frontend:** React (Vite) dashboard + live run status via WebSocket
 
----
+--
 
 ## Features
 
