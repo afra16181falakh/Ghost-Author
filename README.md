@@ -157,7 +157,6 @@ The `demo_repo/` includes parser tests used for local validation.
 - `frontend/` — React UI
 - `demo_repo/` — test repository with intentional quality smells
 
-<<<<<<< HEAD
----
+
 
 
