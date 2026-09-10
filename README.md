@@ -160,10 +160,4 @@ The `demo_repo/` includes parser tests used for local validation.
 <<<<<<< HEAD
 ---
 
-## License
-
-Add your license here.
-=======
-
->>>>>>> 563e455dcf2292dd1a8ad10290d21e643b74ccdf
 
